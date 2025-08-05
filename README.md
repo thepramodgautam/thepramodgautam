@@ -13,14 +13,14 @@
 <br>
 
 ```java
-public class GarvSharma extends MobileDeveloper {
-    private String currentlyBuilding = "NuminX - Cross-Platform Investment App 📱";
-    private String[] learning = {"SwiftUI", "Jetpack Compose", "Microservices", "Mobile Architecture"};
+public class PramodGautam extends BackendDeveloper {
+    private String currentlyBuilding = "Startup Investment App 📱";
+    private String[] learning = {"Django", "RestAPI", "Microservices", "Authentication"};
     private String collaborating = "Open Source Mobile & Backend Projects";
-    private String[] askMeAbout = {"iOS", "Android", "Flutter", "Java", "Spring Boot", "Mobile Architecture"};
+    private String[] askMeAbout = {"Python", "Flask", "Django", "Web Architecture"};
     private String reachMe = "Connect via social links below 📱";
     private String funFact = "I turn coffee ☕ into mobile apps and APIs into reality 🚀";
-    private String[] goals2024 = {
+    private String[] goals2025 = {
         "Launch 5+ production mobile apps",
         "Contribute to mobile development frameworks",
         "Build scalable backend APIs for mobile apps"
@@ -28,7 +28,7 @@ public class GarvSharma extends MobileDeveloper {
     
     @Override
     public String[] getPlatforms() {
-        return new String[]{"iOS", "Android", "Cross-Platform"};
+        return new String[]{"Python", "Django", "Web Architecture"};
     }
 }
 ```
