@@ -41,12 +41,12 @@ public class GarvSharma extends MobileDeveloper {
 
 <div align="center">
   
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769ff)](https://behance.net/garvsharmxa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/garvsharmxa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/garvsharmxa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/garvsharmxa_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=FF0000)](https://youtube.com/@@garv8342)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://garvsharmxa.dev)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769ff)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/__pramodgautam__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](www.linkedin.com/in/pramod-gautam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2)]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=FF0000)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)]
 
 </div>
 
@@ -62,13 +62,13 @@ public class GarvSharma extends MobileDeveloper {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Programming Languages**
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)
+![Python](https://img.shields.io/badge/python-FA7343?style=for-the-badge&logo=python&logoColor=white&labelColor=FA7343)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a7d0a.gif" width="30"> **Backend & APIs**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=6DB33F)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
+![Django](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Django&logoColor=white&labelColor=6DB33F)
+![Flask](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Flask&logoColor=white&labelColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=43853D)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white&labelColor=02569B)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
@@ -112,17 +112,17 @@ public class GarvSharma extends MobileDeveloper {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"> **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=garvsharmxa&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&ring_color=00D9FF&fire_color=00D9FF&currStreakNum=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="Garv Sharma github stats" /> 
-  <img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=garvsharmxa&theme=highcontrast&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" />
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=thepramodgautam&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&ring_color=00D9FF&fire_color=00D9FF&currStreakNum=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="Garv Sharma github stats" /> 
+  <img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=thepramodgautam&theme=highcontrast&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&dates=C9D1D9&sideLabels=C9D1D9" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvsharmxa&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&hide=html,css&custom_title=Most%20Used%20Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=garvsharmxa&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&custom_title=Weekly%20Development%20Activity" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepramodgautam&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&hide=html,css&custom_title=Most%20Used%20Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thepramodgautam&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&custom_title=Weekly%20Development%20Activity" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvsharmxa&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=00D9FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepramodgautam&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=00D9FF" />
 </div>
 
 ---
@@ -131,10 +131,10 @@ public class GarvSharma extends MobileDeveloper {
 
 <div align="center">
 
-[![NuminX Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=numinx&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/numinx)
-[![iOS Por](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=ios-portfolio&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/ios-portfolio)
+[![Strangesnap](https://github-readme-stats.vercel.app/api/pin/?username=thepramodgautam&repo=numinx&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/thepramodgautam/strangesnap-backend.git)
+[![Advocate Choosing System](https://github-readme-stats.vercel.app/api/pin/?username=thepramodgautam&repo=ios-portfolio&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/thepramodgautam/advocate-choosing-system.git)
 [![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=thepramodgautam&repo=android-ecommerce&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/thepramodgautam/Ecommerce-backend.git)
-[![Spring Boot API](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=spring-boot-api&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/spring-boot-api)
+[![Zomato Backend Clone](https://github-readme-stats.vercel.app/api/pin/?username=thepramodgautam&repo=spring-boot-api&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/thepramodgautam/Xpressbites-initial.git)
 
 </div>
 
