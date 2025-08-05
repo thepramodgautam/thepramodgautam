@@ -191,10 +191,10 @@ Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=ffdd00)](https://buymeacoffee.com/xgrave)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=ffdd00)]
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061)](https://ko-fi.com/xgrave)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/xgrave)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)](https://github.com/sponsors/thepramodgautam)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)]
 
 </div>
 
@@ -204,10 +204,10 @@ Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=thepramodgautam&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)](https://github.com/garvsharmxa)
-[![GitHub followers](https://img.shields.io/github/followers/thepramodgautam?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/garvsharmxa)
+[![Profile Views](https://komarev.com/ghpvc/?username=thepramodgautam&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)](https://github.com/thepramodgautam)
+[![GitHub followers](https://img.shields.io/github/followers/thepramodgautam?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/thepramodgautam)
 [![GitHub stars](https://img.shields.io/github/stars/thepramodgautam?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/thepramodgautam)
-[![Repos](https://badges.pufler.dev/repos/garvsharmxa?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/pramodgautam)
+[![Repos](https://badges.pufler.dev/repos/thepramodgautam?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/thepramodgautam)
 
 </div>
 
