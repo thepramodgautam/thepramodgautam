@@ -194,7 +194,7 @@ Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=ffdd00)](https://buymeacoffee.com/xgrave)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061)](https://ko-fi.com/xgrave)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/xgrave)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)](https://github.com/sponsors/garvsharmxa)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)](https://github.com/sponsors/thepramodgautam)
 
 </div>
 
@@ -204,24 +204,24 @@ Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=garvsharmxa&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)](https://github.com/garvsharmxa)
-[![GitHub followers](https://img.shields.io/github/followers/garvsharmxa?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/garvsharmxa)
-[![GitHub stars](https://img.shields.io/github/stars/garvsharmxa?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/garvsharmxa)
-[![Repos](https://badges.pufler.dev/repos/garvsharmxa?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/garvsharmxa)
+[![Profile Views](https://komarev.com/ghpvc/?username=thepramodgautam&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117)](https://github.com/garvsharmxa)
+[![GitHub followers](https://img.shields.io/github/followers/thepramodgautam?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/garvsharmxa)
+[![GitHub stars](https://img.shields.io/github/stars/thepramodgautam?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/thepramodgautam)
+[![Repos](https://badges.pufler.dev/repos/garvsharmxa?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/pramodgautam)
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284152-cc00ba17-f4d8-4fa3-a5b9-4de7ab67b5b0.gif" width="50"> **Let's Build Amazing Mobile Experiences Together!**
+## <img src="https://user-images.githubusercontent.com/74038190/212284152-cc00ba17-f4d8-4fa3-a5b9-4de7ab67b5b0.gif" width="50"> **Let's Build Amazing Backend Experiences Together!**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20connect%20and%20build%20the%20next%20great%20mobile%20app!&descSize=16&descAlignY=85"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20connect%20and%20build%20the%20next%20great%20backend%20app!&descSize=16&descAlignY=85"/>
 </div>
 
 <div align="center">
-  <h2>📱 "Great mobile apps are born from great ideas and clean code" 📱</h2>
-  <p><strong>✨ Made with ❤️ by Garv Sharma | Happy Mobile Coding! 🚀 ✨</strong></p>
+  <h2>📱 "Great backends are born from great ideas and clean code" 📱</h2>
+  <p><strong>✨ Made with ❤️ by Pramod Gautam | Happy Coding! 🚀 ✨</strong></p>
 </div>
 
 ---
