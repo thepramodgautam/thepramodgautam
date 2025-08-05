@@ -132,8 +132,8 @@ public class GarvSharma extends MobileDeveloper {
 <div align="center">
 
 [![NuminX Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=numinx&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/numinx)
-[![iOS Portfolio App](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=ios-portfolio&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/ios-portfolio)
-[![Android E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=android-ecommerce&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/android-ecommerce)
+[![iOS Por](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=ios-portfolio&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/ios-portfolio)
+[![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=thepramodgautam&repo=android-ecommerce&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/thepramodgautam/Ecommerce-backend.git)
 [![Spring Boot API](https://github-readme-stats.vercel.app/api/pin/?username=garvsharmxa&repo=spring-boot-api&theme=highcontrast&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true)](https://github.com/garvsharmxa/spring-boot-api)
 
 </div>
@@ -156,22 +156,21 @@ public class GarvSharma extends MobileDeveloper {
 ```text
 📱 This Week I Spent My Time On:
 
-Swift        12 hrs 30 mins  ████████████░░░░░░░░░░░░░   35.2% 
-Java         10 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   28.9% 
+Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   35.2% 
+Javascript   10 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   28.9% 
 Dart         6 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-Spring Boot  4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+SQL          4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 XML          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    4.7%
 
 🔧 Development Environment: 
 Xcode        15 hrs 30 mins  ██████████░░░░░░░░░░░░░░░   43.7%
-Android St.  12 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   35.9%
 IntelliJ     4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
 VS Code      2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.7%
 
 📊 Platform Focus: 
-iOS          18 hrs 45 mins  ████████████░░░░░░░░░░░░░   52.8%
-Android      12 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   35.2%
-Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+Backend      18 hrs 45 mins  ████████████░░░░░░░░░░░░░   52.8%
+API          12 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   35.2%
+Frontend     4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
 ```
 <!--END_SECTION:waka-->
 
@@ -192,8 +191,8 @@ Backend      4 hrs 15 mins   ███░░░░░░░░░░░░░░
 <div align="center">
   
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=ffdd00)
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061)](https://ko-fi.com/xgrave)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/xgrave)
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)
 ![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)
 
 </div>
