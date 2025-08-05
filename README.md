@@ -1,7 +1,7 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Hi%2C+I'm+Pramod+Gautam;📱+Full+Stack+Developer;)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mobile%20Development%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20seamless%20mobile%20experiences%20for%20iOS%20and%20Android&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Backend%20Development%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20seamless%20mobile%20experiences%20for%20iOS%20and%20Android&descSize=18&descAlignY=55"/>
 </div>
 
 ---
